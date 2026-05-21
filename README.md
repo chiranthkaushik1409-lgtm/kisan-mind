@@ -81,7 +81,7 @@ The project focuses on simplicity, accessibility, and farmer-friendly interactio
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/kisan-mind.git
+git clone https://github.com/chiranthkaushik1409-lgtm/kisan-mind.git
 
 # Open the project folder
 cd kisan-mind
