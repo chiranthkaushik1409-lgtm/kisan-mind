@@ -11,7 +11,7 @@ Built during a college-level hackathon based on the theme:
 **"Technology for Sustainable Development"**
 
 - 👥 Team Members:
-- Chiranth R Kaushik(@chiranthkaushik1409-lgtm)
+-Chiranth R Kaushik — @chiranthkaushik1409-lgtm
 - ⏱️ Duration: 6 Hours
 
 ---
