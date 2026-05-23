@@ -15,7 +15,8 @@ Built during a college-level hackathon based on the theme:
 - Abhishek Rai A — [@Abhirai2006](https://github.com/Abhirai2006)
 - G Lochan — [@lochang03](https://github.com/lochang03)
 - Aishwarya Mahesh Teli - [@aishuganiger18](https://github.com/aishuganiger18)
-- Duration: 6 Hours
+
+Duration: 6 Hours
 
 ---
 
