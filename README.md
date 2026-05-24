@@ -81,6 +81,14 @@ The project focuses on simplicity, accessibility, and farmer-friendly interactio
 | Setup | Open directly in browser |
 
 ---
+## 📊 Presentation
+
+The full project presentation is available in the repository:
+[KisanMind_Hackathon_Presentation.pptx]([./KisanMind_Hackathon_Presentation.pptx](https://github.com/chiranthkaushik1409-lgtm/kisan-mind/blob/main/KisanMind_Hackathon_Presentation.pptx))
+
+It covers the problem statement, solution walkthrough, live demo flow, and architecture decisions.
+
+---
 
 ## 🚀 How to Run
 
